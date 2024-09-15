@@ -1,5 +1,4 @@
-data_folder/secrets.yaml
-data_folder/plain_text_resume.yaml
+data_folder/*
 *.csv
 __pycache__/**
 .idea/**
@@ -13,5 +12,4 @@ generated_cv*
 .vscode
 chrome_profile
 answers.json
-data*
 *virtual
